@@ -25,6 +25,7 @@ SOURCES = (
     ('CAMPAIGN', 'CAMPAIGN'),
     ('WEBSITE', 'WEBSITE'),
     ('OTHER', 'OTHER'),
+    ('TEXT', 'TEXT'),    
 )
 
 
